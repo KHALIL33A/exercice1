@@ -14,8 +14,8 @@ int main() {
     D = pow(b,2)-(4*a*c);
     if(D >0){
 
-        printf( "solution 1= %f", (-b +(sqrt (D)))/(2*a));
-         printf( "solution 2= %f", (-b -(sqrt (D)))/(2*a));
+        printf( "solution 1= %f \n", (-b +(sqrt (D)))/(2*a));
+         printf( "solution 2= %f \n", (-b -(sqrt (D)))/(2*a));
          
     }else if (D == 0){
 
