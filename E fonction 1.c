@@ -13,4 +13,6 @@ int main(){
    scanf("%d",&y);
    resulte=somme(x,y);
   printf("resultat =%d ",resulte );
+    return 0; 
+}
     
